@@ -4,6 +4,6 @@ The API's Github repo is [here](https://github.com/mathdroid/covid19)
 You can contribute if interested.
 
 
-I have hoted the final project on netlify.  
+I have hosted the final project on netlify.  
 
 [Netlify Link](https://covid19app.netlify.com/)
